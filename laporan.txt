@@ -1,0 +1,4 @@
+=== LAPORAN SISA STOK PRODUK (Toko Sukses Makmur) ===
+Kode: OBJ-A | Nama: Laptop Premium | Sisa Stok: 6
+Kode: OBJ-B | Nama: Kemeja Reguler | Sisa Stok: 2
+Kode: OBJ-C | Nama: Snack Ekonomis | Sisa Stok: 48
